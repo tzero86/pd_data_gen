@@ -14,7 +14,7 @@ import random
 
 # globals
 state_specific_addresses = []
-total_records = 10
+total_records = 100
 target_state = 'CA'
 
 
@@ -35,7 +35,7 @@ def save_to_file(data):
 
 
 # this generates the objects for the JSON data file
-def gen_providers_json(name):
+def gen_providers_json():
     pd_types = ['INDIVIDUAL', 'FACILITY']
     pd_facility_names = ['Renal Dialysis Unit', 'Northwest Endoscopy Center LLC', 'Main Street Hospital',
                          'Central Hospital', 'City Care Center']
@@ -51,7 +51,7 @@ def gen_providers_json(name):
                        "25210CA012001701", ]
     pd_network_tier = ['PREFERRED', 'NON-PREFERRED']
     pd_years = [2021, 2022]
-    pd_prov_languages = ['English', 'Spanish', 'Danish', 'Italian', 'German', 'French'],
+    pd_prov_languages = ['English', 'Spanish', 'Danish', 'Italian', 'German', 'French']
     pd_prov_gender = ['female', 'male']
 
     # We need to generate N number of objects
@@ -70,8 +70,8 @@ def gen_providers_json(name):
                 "last": "Provider_" + str(x),
                 "suffix": "JS"
             }} if gen_type == "INDIVIDUAL" else {}),
-            **({"facility_name": random.choice(pd_facility_names),} if gen_type == 'FACILITY' else {}),
-            **({"facility_type": random.choice(pd_facility_types),} if gen_type == 'FACILITY' else {}),
+            **({"facility_name": random.choice(pd_facility_names), } if gen_type == 'FACILITY' else {}),
+            **({"facility_type": random.choice(pd_facility_types), } if gen_type == 'FACILITY' else {}),
             "addresses": [
                 {
                     "address": address['address1'],
@@ -105,4 +105,4 @@ def gen_providers_json(name):
 
 
 if __name__ == '__main__':
-    gen_providers_json('PyCharm')
+    gen_providers_json()

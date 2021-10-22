@@ -1,25 +1,541 @@
 [
     {
-        "npi": "5886650832",
+        "npi": "6766316168",
+        "type": "FACILITY",
+        "facility_name": "Northwest Endoscopy Center LLC",
+        "facility_type": "Ambulatory",
+        "addresses": [
+            {
+                "address": "38252 Farwell Drive",
+                "address_2": "",
+                "city": "Fremont",
+                "state": "CA",
+                "zip": "94536",
+                "phone": "5394196138"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA007001201",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Italian",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "5941496578",
         "type": "INDIVIDUAL",
         "name": {
             "first": "Juan",
             "middle": "Carlos",
-            "last": "Provider_1",
+            "last": "Provider_2",
             "suffix": "JS"
         },
         "addresses": [
             {
-                "address": "1357 Addison Street",
-                "address_2": "",
+                "address": "1528 Spruce Street",
+                "address_2": "M",
                 "city": "Berkeley",
                 "state": "CA",
-                "zip": "94702",
-                "phone": "5034695233"
+                "zip": "94709",
+                "phone": "6474078695"
             }
         ],
         "specialty": "Licensed Behavioral Analyst",
         "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA008001301",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Italian",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "6801678148",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_3",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "800 California 116",
+                "address_2": "",
+                "city": "Sebastopol",
+                "state": "CA",
+                "zip": "95472",
+                "phone": "9720606584"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA007001201",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "English",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "4957672856",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_4",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "24147 Clinton Court",
+                "address_2": "",
+                "city": "Hayward",
+                "state": "CA",
+                "zip": "94545",
+                "phone": "7871444203"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA009001401",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "German",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "3732770052",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_5",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "3189 Main Street",
+                "address_2": "#1",
+                "city": "Mammoth Lakes",
+                "state": "CA",
+                "zip": "93546",
+                "phone": "3123006180"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA009001401",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "English",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "8432640843",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_6",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "31130 Meadowbrook Avenue",
+                "address_2": "",
+                "city": "Hayward",
+                "state": "CA",
+                "zip": "94544",
+                "phone": "2810305312"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA009001401",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Spanish",
+        "gender": "female",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "8363700381",
+        "type": "FACILITY",
+        "facility_name": "City Care Center",
+        "facility_type": "Ambulatory",
+        "addresses": [
+            {
+                "address": "4981 Shirley Way",
+                "address_2": "",
+                "city": "Livermore",
+                "state": "CA",
+                "zip": "94550",
+                "phone": "9434226956"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "German",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "1040469604",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_8",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "2313 Vegas Avenue",
+                "address_2": "",
+                "city": "Castro Valley",
+                "state": "CA",
+                "zip": "94546",
+                "phone": "7197675915"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA008001301",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Italian",
+        "gender": "female",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "3433933377",
+        "type": "FACILITY",
+        "facility_name": "Northwest Endoscopy Center LLC",
+        "facility_type": "Hospital",
+        "addresses": [
+            {
+                "address": "2399 East 14th Street",
+                "address_2": "#29",
+                "city": "San Leandro",
+                "state": "CA",
+                "zip": "94577",
+                "phone": "4316805870"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "German",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "8824970337",
+        "type": "FACILITY",
+        "facility_name": "Central Hospital",
+        "facility_type": "Hospital",
+        "addresses": [
+            {
+                "address": "3959 Fairlands Drive",
+                "address_2": "",
+                "city": "Pleasanton",
+                "state": "CA",
+                "zip": "94588",
+                "phone": "9000702952"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA008001301",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "French",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "6397543644",
+        "type": "FACILITY",
+        "facility_name": "Northwest Endoscopy Center LLC",
+        "facility_type": "Ambulatory",
+        "addresses": [
+            {
+                "address": "4876 Norris Road",
+                "address_2": "",
+                "city": "Fremont",
+                "state": "CA",
+                "zip": "94536",
+                "phone": "5355467533"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Italian",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "2516919252",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_12",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "19 Heritage",
+                "address_2": "",
+                "city": "Oakland",
+                "state": "CA",
+                "zip": "94605",
+                "phone": "4359816774"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA007001201",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "English",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "8690016584",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_13",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "16910 Alpine Drive",
+                "address_2": "",
+                "city": "Pioneer",
+                "state": "CA",
+                "zip": "95666",
+                "phone": "5954139905"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Italian",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "7557837906",
+        "type": "FACILITY",
+        "facility_name": "Central Hospital",
+        "facility_type": "Ambulatory",
+        "addresses": [
+            {
+                "address": "4936 Sequoia Avenue",
+                "address_2": "",
+                "city": "Dublin",
+                "state": "CA",
+                "zip": "94568",
+                "phone": "6826644417"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "German",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "9323994875",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_15",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "25800 Industrial Boulevard",
+                "address_2": "V",
+                "city": "Hayward",
+                "state": "CA",
+                "zip": "94545",
+                "phone": "6249390005"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qhp",
         "board_certification": "NP",
         "education": "Orthopedic",
         "accepting": "Not-Accepting",
@@ -34,34 +550,285 @@
                 ]
             }
         ],
-        "languages": [
-            "English",
-            "Spanish",
-            "Danish",
-            "Italian",
-            "German",
-            "French"
-        ],
-        "gender": "male",
+        "languages": "French",
+        "gender": "female",
         "last_updated_on": "2021-07-12"
     },
     {
-        "npi": "9179252864",
+        "npi": "1428176350",
         "type": "INDIVIDUAL",
         "name": {
             "first": "Juan",
             "middle": "Carlos",
-            "last": "Provider_2",
+            "last": "Provider_16",
             "suffix": "JS"
         },
         "addresses": [
             {
-                "address": "2313 Vegas Avenue",
+                "address": "22825 Paseo Place",
                 "address_2": "",
-                "city": "Castro Valley",
+                "city": "Hayward",
                 "state": "CA",
-                "zip": "94546",
-                "phone": "4498010871"
+                "zip": "94541",
+                "phone": "3089936543"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Italian",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "5325034681",
+        "type": "FACILITY",
+        "facility_name": "Central Hospital",
+        "facility_type": "Ambulatory",
+        "addresses": [
+            {
+                "address": "5110 East Shoshone Avenue",
+                "address_2": "",
+                "city": "Orange",
+                "state": "CA",
+                "zip": "92867",
+                "phone": "9712046737"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Spanish",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "7213815719",
+        "type": "FACILITY",
+        "facility_name": "Main Street Hospital",
+        "facility_type": "Ambulatory",
+        "addresses": [
+            {
+                "address": "4493 Heath Circle",
+                "address_2": "",
+                "city": "Rohnert Park",
+                "state": "CA",
+                "zip": "94928",
+                "phone": "2675973457"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Spanish",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "8148261760",
+        "type": "FACILITY",
+        "facility_name": "Renal Dialysis Unit",
+        "facility_type": "Hospital",
+        "addresses": [
+            {
+                "address": "465 Humboldt Way",
+                "address_2": "",
+                "city": "Livermore",
+                "state": "CA",
+                "zip": "94551",
+                "phone": "6574689964"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Italian",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "8975474737",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_20",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "4231 Miramonte Way",
+                "address_2": "",
+                "city": "Union City",
+                "state": "CA",
+                "zip": "94587",
+                "phone": "4856775733"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "French",
+        "gender": "female",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "2153301351",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_21",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "3377 Sandstone Court",
+                "address_2": "",
+                "city": "Pleasanton",
+                "state": "CA",
+                "zip": "94588",
+                "phone": "9437639860"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "German",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "8464522793",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_22",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "3610 Story Road",
+                "address_2": "",
+                "city": "San Jose",
+                "state": "CA",
+                "zip": "95127",
+                "phone": "1576525017"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "English",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "3421076048",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_23",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "369 Ruth Avenue",
+                "address_2": "",
+                "city": "Mountain View",
+                "state": "CA",
+                "zip": "94043",
+                "phone": "1572490032"
             }
         ],
         "specialty": "Ophthalmology",
@@ -80,86 +847,34 @@
                 ]
             }
         ],
-        "languages": [
-            "English",
-            "Spanish",
-            "Danish",
-            "Italian",
-            "German",
-            "French"
-        ],
+        "languages": "Italian",
         "gender": "male",
         "last_updated_on": "2021-07-12"
     },
     {
-        "npi": "7067843827",
+        "npi": "6108189533",
         "type": "FACILITY",
-        "facility_name": "City Care Center",
-        "facility_type": "Hospital",
+        "facility_name": "Renal Dialysis Unit",
+        "facility_type": "Ambulatory",
         "addresses": [
             {
-                "address": "565 Amber Isle",
+                "address": "9300 C Street",
                 "address_2": "",
-                "city": "Alameda",
+                "city": "Oakland",
                 "state": "CA",
-                "zip": "94501",
-                "phone": "6551237159"
+                "zip": "94603",
+                "phone": "8872935891"
             }
         ],
-        "specialty": "Licensed Behavioral Analyst",
+        "specialty": "Ophthalmology",
         "program_type": "qdp",
         "board_certification": "NP",
         "education": "Orthopedic",
-        "accepting": "Accepting",
+        "accepting": "Not-Accepting",
         "plans": [
             {
                 "plan_id_type": "HIOS-PLAN-ID",
-                "plan_id": "25210CA007001201",
-                "network_tier": "NON-PREFERRED",
-                "years": [
-                    2021,
-                    2022
-                ]
-            }
-        ],
-        "languages": [
-            "English",
-            "Spanish",
-            "Danish",
-            "Italian",
-            "German",
-            "French"
-        ],
-        "last_updated_on": "2021-07-12"
-    },
-    {
-        "npi": "4633022126",
-        "type": "INDIVIDUAL",
-        "name": {
-            "first": "Juan",
-            "middle": "Carlos",
-            "last": "Provider_4",
-            "suffix": "JS"
-        },
-        "addresses": [
-            {
-                "address": "3835 Oakes Drive",
-                "address_2": "",
-                "city": "Hayward",
-                "state": "CA",
-                "zip": "94542",
-                "phone": "5561862917"
-            }
-        ],
-        "specialty": "Endocrinology",
-        "program_type": "qhp",
-        "board_certification": "NP",
-        "education": "Orthopedic",
-        "accepting": "Accepting",
-        "plans": [
-            {
-                "plan_id_type": "HIOS-PLAN-ID",
-                "plan_id": "25210CA008001301",
+                "plan_id": "25210CA011001601",
                 "network_tier": "PREFERRED",
                 "years": [
                     2021,
@@ -167,38 +882,108 @@
                 ]
             }
         ],
-        "languages": [
-            "English",
-            "Spanish",
-            "Danish",
-            "Italian",
-            "German",
-            "French"
-        ],
-        "gender": "male",
+        "languages": "Spanish",
         "last_updated_on": "2021-07-12"
     },
     {
-        "npi": "3833859856",
+        "npi": "3404936656",
         "type": "INDIVIDUAL",
         "name": {
             "first": "Juan",
             "middle": "Carlos",
-            "last": "Provider_5",
+            "last": "Provider_25",
             "suffix": "JS"
         },
         "addresses": [
             {
-                "address": "4016 Doane Street",
+                "address": "281 MacArthur Boulevard",
                 "address_2": "",
-                "city": "Fremont",
+                "city": "Oakland",
                 "state": "CA",
-                "zip": "94538",
-                "phone": "9786331002"
+                "zip": "94610",
+                "phone": "2940126078"
             }
         ],
-        "specialty": "Licensed Behavioral Analyst",
-        "program_type": "qhp",
+        "specialty": "Ophthalmology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "English",
+        "gender": "female",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "2660286149",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_26",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "622 Thomas Street",
+                "address_2": "",
+                "city": "Woodland",
+                "state": "CA",
+                "zip": "95776",
+                "phone": "6251891248"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "German",
+        "gender": "female",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "9948054336",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_27",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "25800 Industrial Boulevard",
+                "address_2": "V",
+                "city": "Hayward",
+                "state": "CA",
+                "zip": "94545",
+                "phone": "4286005202"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qdp",
         "board_certification": "NP",
         "education": "Orthopedic",
         "accepting": "Accepting",
@@ -213,34 +998,320 @@
                 ]
             }
         ],
-        "languages": [
-            "English",
-            "Spanish",
-            "Danish",
-            "Italian",
-            "German",
-            "French"
-        ],
-        "gender": "male",
+        "languages": "Danish",
+        "gender": "female",
         "last_updated_on": "2021-07-12"
     },
     {
-        "npi": "4969446231",
+        "npi": "4432998574",
+        "type": "FACILITY",
+        "facility_name": "Northwest Endoscopy Center LLC",
+        "facility_type": "Hospital",
+        "addresses": [
+            {
+                "address": "31353 Santa Elena Way",
+                "address_2": "",
+                "city": "Union City",
+                "state": "CA",
+                "zip": "94587",
+                "phone": "3543528840"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Danish",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "1817917039",
         "type": "INDIVIDUAL",
         "name": {
             "first": "Juan",
             "middle": "Carlos",
-            "last": "Provider_6",
+            "last": "Provider_29",
             "suffix": "JS"
         },
         "addresses": [
             {
-                "address": "2348 Cantalise Drive",
+                "address": "28250 Dickens Avenue",
                 "address_2": "",
-                "city": "Dublin",
+                "city": "Hayward",
                 "state": "CA",
-                "zip": "94568",
-                "phone": "7557903641"
+                "zip": "94544",
+                "phone": "1047443170"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA009001401",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "English",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "9193772646",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_30",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "826 Webster Street",
+                "address_2": "",
+                "city": "Hayward",
+                "state": "CA",
+                "zip": "94544",
+                "phone": "4918469968"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Spanish",
+        "gender": "female",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "4590617138",
+        "type": "FACILITY",
+        "facility_name": "Main Street Hospital",
+        "facility_type": "Ambulatory",
+        "addresses": [
+            {
+                "address": "32532 Jean Drive",
+                "address_2": "",
+                "city": "Union City",
+                "state": "CA",
+                "zip": "94587",
+                "phone": "2902872938"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Spanish",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "5519435084",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_32",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1357 Addison Street",
+                "address_2": "",
+                "city": "Berkeley",
+                "state": "CA",
+                "zip": "94702",
+                "phone": "4727935924"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "French",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "2227546152",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_33",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "7096 Park Mesa Way",
+                "address_2": "#57",
+                "city": "San Diego",
+                "state": "CA",
+                "zip": "92111",
+                "phone": "8341159644"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "German",
+        "gender": "female",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "2058402361",
+        "type": "FACILITY",
+        "facility_name": "City Care Center",
+        "facility_type": "Hospital",
+        "addresses": [
+            {
+                "address": "565 Amber Isle",
+                "address_2": "",
+                "city": "Alameda",
+                "state": "CA",
+                "zip": "94501",
+                "phone": "2142157321"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "English",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "8128602918",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_35",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "2014 Clemens Road",
+                "address_2": "",
+                "city": "Oakland",
+                "state": "CA",
+                "zip": "94602",
+                "phone": "7098010913"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "English",
+        "gender": "female",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "4260397035",
+        "type": "FACILITY",
+        "facility_name": "Renal Dialysis Unit",
+        "facility_type": "Hospital",
+        "addresses": [
+            {
+                "address": "5732 Jean Drive",
+                "address_2": "",
+                "city": "Union City",
+                "state": "CA",
+                "zip": "94587",
+                "phone": "6428885579"
             }
         ],
         "specialty": "Licensed Behavioral Analyst",
@@ -259,34 +1330,499 @@
                 ]
             }
         ],
-        "languages": [
-            "English",
-            "Spanish",
-            "Danish",
-            "Italian",
-            "German",
-            "French"
-        ],
-        "gender": "male",
+        "languages": "German",
         "last_updated_on": "2021-07-12"
     },
     {
-        "npi": "4223263815",
+        "npi": "4851637884",
+        "type": "FACILITY",
+        "facility_name": "Northwest Endoscopy Center LLC",
+        "facility_type": "Hospital",
+        "addresses": [
+            {
+                "address": "3027 Badger Drive",
+                "address_2": "",
+                "city": "Pleasanton",
+                "state": "CA",
+                "zip": "94566",
+                "phone": "3206078353"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA008001301",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "German",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "1414503543",
         "type": "INDIVIDUAL",
         "name": {
             "first": "Juan",
             "middle": "Carlos",
-            "last": "Provider_7",
+            "last": "Provider_38",
             "suffix": "JS"
         },
         "addresses": [
             {
-                "address": "4409 Star Jasmine Court",
-                "address_2": "",
-                "city": "Bakersfield",
+                "address": "3777 Mowry Avenue",
+                "address_2": "#APT 17",
+                "city": "Fremont",
                 "state": "CA",
-                "zip": "93304",
-                "phone": "9868374535"
+                "zip": "94538",
+                "phone": "5025496481"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "French",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "9029415648",
+        "type": "FACILITY",
+        "facility_name": "Main Street Hospital",
+        "facility_type": "Hospital",
+        "addresses": [
+            {
+                "address": "1265 Xavier Avenue",
+                "address_2": "",
+                "city": "Hayward",
+                "state": "CA",
+                "zip": "94545",
+                "phone": "5484743498"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Danish",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "1920795571",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_40",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1870 A Street",
+                "address_2": "",
+                "city": "Oroville",
+                "state": "CA",
+                "zip": "95966",
+                "phone": "7377890183"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Spanish",
+        "gender": "female",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "3383799914",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_41",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "6431 Shattuck Avenue",
+                "address_2": "B",
+                "city": "Oakland",
+                "state": "CA",
+                "zip": "94609",
+                "phone": "8486763058"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Spanish",
+        "gender": "female",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "3849971938",
+        "type": "FACILITY",
+        "facility_name": "Renal Dialysis Unit",
+        "facility_type": "Hospital",
+        "addresses": [
+            {
+                "address": "7435 East Tulare Avenue",
+                "address_2": "",
+                "city": "Fresno",
+                "state": "CA",
+                "zip": "93737",
+                "phone": "6946032813"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Spanish",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "6507033655",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_43",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "4981 Shirley Way",
+                "address_2": "",
+                "city": "Livermore",
+                "state": "CA",
+                "zip": "94550",
+                "phone": "8525462026"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Italian",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "2414813319",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_44",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "835 Shiloh Court",
+                "address_2": "",
+                "city": "Redding",
+                "state": "CA",
+                "zip": "96003",
+                "phone": "9890345633"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "French",
+        "gender": "female",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "9204691966",
+        "type": "FACILITY",
+        "facility_name": "Northwest Endoscopy Center LLC",
+        "facility_type": "Ambulatory",
+        "addresses": [
+            {
+                "address": "1937 Carleton Street",
+                "address_2": "M",
+                "city": "Berkeley",
+                "state": "CA",
+                "zip": "94704",
+                "phone": "4769901090"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Italian",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "5577258922",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_46",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "22618 South Figueroa Street",
+                "address_2": "#22",
+                "city": "Carson",
+                "state": "CA",
+                "zip": "90745",
+                "phone": "1380638152"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Spanish",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "1653961323",
+        "type": "FACILITY",
+        "facility_name": "Central Hospital",
+        "facility_type": "Ambulatory",
+        "addresses": [
+            {
+                "address": "450 C Street",
+                "address_2": "",
+                "city": "Hayward",
+                "state": "CA",
+                "zip": "94541",
+                "phone": "8025799731"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA009001401",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "French",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "6322524376",
+        "type": "FACILITY",
+        "facility_name": "Renal Dialysis Unit",
+        "facility_type": "Hospital",
+        "addresses": [
+            {
+                "address": "1643 Oxford Street",
+                "address_2": "R C",
+                "city": "Berkeley",
+                "state": "CA",
+                "zip": "94709",
+                "phone": "6521656385"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Danish",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "1501986403",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_49",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "3600 Pennsylvania Avenue",
+                "address_2": "#APT 6",
+                "city": "Fremont",
+                "state": "CA",
+                "zip": "94536",
+                "phone": "8791522650"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA007001201",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "French",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "3641372703",
+        "type": "FACILITY",
+        "facility_name": "Central Hospital",
+        "facility_type": "Hospital",
+        "addresses": [
+            {
+                "address": "22062 Cameron Street",
+                "address_2": "",
+                "city": "Castro Valley",
+                "state": "CA",
+                "zip": "94546",
+                "phone": "8691147493"
             }
         ],
         "specialty": "Endocrinology",
@@ -297,7 +1833,41 @@
         "plans": [
             {
                 "plan_id_type": "HIOS-PLAN-ID",
-                "plan_id": "25210CA007001201",
+                "plan_id": "25210CA005001001",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Danish",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "6336510646",
+        "type": "FACILITY",
+        "facility_name": "City Care Center",
+        "facility_type": "Ambulatory",
+        "addresses": [
+            {
+                "address": "222 Quince Street",
+                "address_2": "#2-B",
+                "city": "San Diego",
+                "state": "CA",
+                "zip": "92103",
+                "phone": "8149690740"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA008001301",
                 "network_tier": "NON-PREFERRED",
                 "years": [
                     2021,
@@ -305,34 +1875,64 @@
                 ]
             }
         ],
-        "languages": [
-            "English",
-            "Spanish",
-            "Danish",
-            "Italian",
-            "German",
-            "French"
-        ],
-        "gender": "female",
+        "languages": "Spanish",
         "last_updated_on": "2021-07-12"
     },
     {
-        "npi": "2310226635",
+        "npi": "6242968807",
         "type": "FACILITY",
         "facility_name": "Central Hospital",
         "facility_type": "Hospital",
         "addresses": [
             {
-                "address": "4300 Soquel Drive",
-                "address_2": "##71",
-                "city": "Soquel",
+                "address": "28250 Dickens Avenue",
+                "address_2": "",
+                "city": "Hayward",
                 "state": "CA",
-                "zip": "95073",
-                "phone": "9450811133"
+                "zip": "94544",
+                "phone": "1436679561"
             }
         ],
         "specialty": "Licensed Behavioral Analyst",
-        "program_type": "qdp",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Danish",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "5710146070",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_53",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "2703 Woolsey Street",
+                "address_2": "#R 1",
+                "city": "Berkeley",
+                "state": "CA",
+                "zip": "94705",
+                "phone": "1562470498"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qhp",
         "board_certification": "NP",
         "education": "Orthopedic",
         "accepting": "Accepting",
@@ -347,36 +1947,1545 @@
                 ]
             }
         ],
-        "languages": [
-            "English",
-            "Spanish",
-            "Danish",
-            "Italian",
-            "German",
-            "French"
-        ],
+        "languages": "Spanish",
+        "gender": "male",
         "last_updated_on": "2021-07-12"
     },
     {
-        "npi": "2692536345",
+        "npi": "1988411285",
         "type": "INDIVIDUAL",
         "name": {
             "first": "Juan",
             "middle": "Carlos",
-            "last": "Provider_9",
+            "last": "Provider_54",
             "suffix": "JS"
         },
         "addresses": [
             {
-                "address": "38676 Greenwich Circle",
+                "address": "25800 Industrial Boulevard",
+                "address_2": "V",
+                "city": "Hayward",
+                "state": "CA",
+                "zip": "94545",
+                "phone": "7492892429"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "French",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "5193836028",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_55",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "565 Amber Isle",
+                "address_2": "",
+                "city": "Alameda",
+                "state": "CA",
+                "zip": "94501",
+                "phone": "9439610518"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA008001301",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "English",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "1420710968",
+        "type": "FACILITY",
+        "facility_name": "Central Hospital",
+        "facility_type": "Ambulatory",
+        "addresses": [
+            {
+                "address": "5732 Jean Drive",
+                "address_2": "",
+                "city": "Union City",
+                "state": "CA",
+                "zip": "94587",
+                "phone": "3645184789"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Spanish",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "9714581480",
+        "type": "FACILITY",
+        "facility_name": "Central Hospital",
+        "facility_type": "Hospital",
+        "addresses": [
+            {
+                "address": "33655 5th Street",
+                "address_2": "",
+                "city": "Union City",
+                "state": "CA",
+                "zip": "94587",
+                "phone": "2975340541"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Italian",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "5672063533",
+        "type": "FACILITY",
+        "facility_name": "Renal Dialysis Unit",
+        "facility_type": "Hospital",
+        "addresses": [
+            {
+                "address": "29 Vista Flores",
+                "address_2": "",
+                "city": "Pleasanton",
+                "state": "CA",
+                "zip": "94566",
+                "phone": "9482934280"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Danish",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "5756319527",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_59",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "238 La Salle Avenue",
+                "address_2": "",
+                "city": "Piedmont",
+                "state": "CA",
+                "zip": "94610",
+                "phone": "3150238701"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Italian",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "2832018151",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_60",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "136 Acacia Drive",
+                "address_2": "",
+                "city": "Blue Lake",
+                "state": "CA",
+                "zip": "95525",
+                "phone": "5194020316"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "German",
+        "gender": "female",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "4370320371",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_61",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "7096 Park Mesa Way",
+                "address_2": "#57",
+                "city": "San Diego",
+                "state": "CA",
+                "zip": "92111",
+                "phone": "4419720291"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "English",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "4046222048",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_62",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "4738 Mallard Common",
+                "address_2": "",
+                "city": "Fremont",
+                "state": "CA",
+                "zip": "94555",
+                "phone": "2928318128"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "German",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "9967930082",
+        "type": "FACILITY",
+        "facility_name": "Renal Dialysis Unit",
+        "facility_type": "Ambulatory",
+        "addresses": [
+            {
+                "address": "424 Callan Avenue",
+                "address_2": "#216",
+                "city": "San Leandro",
+                "state": "CA",
+                "zip": "94577",
+                "phone": "2748942631"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA007001201",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Spanish",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "6497904403",
+        "type": "FACILITY",
+        "facility_name": "Renal Dialysis Unit",
+        "facility_type": "Hospital",
+        "addresses": [
+            {
+                "address": "30451 Servilla Place",
+                "address_2": "",
+                "city": "Castaic",
+                "state": "CA",
+                "zip": "91384",
+                "phone": "8239148508"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA009001401",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Danish",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "6640455834",
+        "type": "FACILITY",
+        "facility_name": "City Care Center",
+        "facility_type": "Ambulatory",
+        "addresses": [
+            {
+                "address": "36360 Beech Place",
+                "address_2": "",
+                "city": "Newark",
+                "state": "CA",
+                "zip": "94560",
+                "phone": "5819550387"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Italian",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "6345144300",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_66",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "680 Quintana Road",
+                "address_2": "",
+                "city": "Morro Bay",
+                "state": "CA",
+                "zip": "93442",
+                "phone": "2781809154"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "French",
+        "gender": "female",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "1184060971",
+        "type": "FACILITY",
+        "facility_name": "Northwest Endoscopy Center LLC",
+        "facility_type": "Ambulatory",
+        "addresses": [
+            {
+                "address": "11256 Palos Verdes Court",
+                "address_2": "",
+                "city": "Cupertino",
+                "state": "CA",
+                "zip": "95014",
+                "phone": "2766257953"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA009001401",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Danish",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "9435807494",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_68",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1987 Boxer Court",
+                "address_2": "",
+                "city": "San Lorenzo",
+                "state": "CA",
+                "zip": "94580",
+                "phone": "8269734960"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Spanish",
+        "gender": "female",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "7078061063",
+        "type": "FACILITY",
+        "facility_name": "City Care Center",
+        "facility_type": "Ambulatory",
+        "addresses": [
+            {
+                "address": "4438 Maine Avenue",
+                "address_2": "",
+                "city": "Baldwin Park",
+                "state": "CA",
+                "zip": "91706",
+                "phone": "4826234057"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA009001401",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Danish",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "3347419998",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_70",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "26466 Mockingbird Lane",
+                "address_2": "",
+                "city": "Hayward",
+                "state": "CA",
+                "zip": "94544",
+                "phone": "9856695360"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Danish",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "8708164891",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_71",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "954 Dowler Drive",
+                "address_2": "",
+                "city": "Eureka",
+                "state": "CA",
+                "zip": "95501",
+                "phone": "1359440360"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Danish",
+        "gender": "female",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "6609780223",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_72",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1108 Slater Street",
+                "address_2": "",
+                "city": "Santa Rosa",
+                "state": "CA",
+                "zip": "95404",
+                "phone": "8088973808"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA008001301",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Italian",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "5314022940",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_73",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "55620 Jolon Road",
+                "address_2": "",
+                "city": "King City",
+                "state": "CA",
+                "zip": "93930",
+                "phone": "7011389625"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA007001201",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Danish",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "7861576717",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_74",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "2704 McGee Avenue",
+                "address_2": "R",
+                "city": "Berkeley",
+                "state": "CA",
+                "zip": "94703",
+                "phone": "6059818648"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA009001401",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "German",
+        "gender": "female",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "8689865495",
+        "type": "FACILITY",
+        "facility_name": "Northwest Endoscopy Center LLC",
+        "facility_type": "Ambulatory",
+        "addresses": [
+            {
+                "address": "474 Merritt Avenue",
+                "address_2": "",
+                "city": "Oakland",
+                "state": "CA",
+                "zip": "94610",
+                "phone": "9973583953"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Danish",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "4072096695",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_76",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "35805 Alcazar Court",
                 "address_2": "",
                 "city": "Fremont",
                 "state": "CA",
                 "zip": "94536",
-                "phone": "2510382599"
+                "phone": "8149263184"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Danish",
+        "gender": "female",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "6002157250",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_77",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "31130 Meadowbrook Avenue",
+                "address_2": "",
+                "city": "Hayward",
+                "state": "CA",
+                "zip": "94544",
+                "phone": "8603227697"
             }
         ],
         "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Italian",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "9279766566",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_78",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1040 University Avenue",
+                "address_2": "#R 208",
+                "city": "Berkeley",
+                "state": "CA",
+                "zip": "94710",
+                "phone": "6074411936"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "French",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "3373328271",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_79",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "61 Callahan Way",
+                "address_2": "#B4",
+                "city": "Mammoth Lakes",
+                "state": "CA",
+                "zip": "93546",
+                "phone": "4595786269"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA009001401",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "English",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "8591064172",
+        "type": "FACILITY",
+        "facility_name": "City Care Center",
+        "facility_type": "Ambulatory",
+        "addresses": [
+            {
+                "address": "5397 Wentworth Avenue",
+                "address_2": "",
+                "city": "Oakland",
+                "state": "CA",
+                "zip": "94601",
+                "phone": "8586998128"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "French",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "5733281329",
+        "type": "FACILITY",
+        "facility_name": "Main Street Hospital",
+        "facility_type": "Hospital",
+        "addresses": [
+            {
+                "address": "4738 Mallard Common",
+                "address_2": "",
+                "city": "Fremont",
+                "state": "CA",
+                "zip": "94555",
+                "phone": "3263375459"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Spanish",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "3993269598",
+        "type": "FACILITY",
+        "facility_name": "Renal Dialysis Unit",
+        "facility_type": "Ambulatory",
+        "addresses": [
+            {
+                "address": "369 Ruth Avenue",
+                "address_2": "",
+                "city": "Mountain View",
+                "state": "CA",
+                "zip": "94043",
+                "phone": "5254287836"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "French",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "2954188389",
+        "type": "FACILITY",
+        "facility_name": "City Care Center",
+        "facility_type": "Ambulatory",
+        "addresses": [
+            {
+                "address": "125 John Street",
+                "address_2": "",
+                "city": "Santa Cruz",
+                "state": "CA",
+                "zip": "95060",
+                "phone": "2011665945"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "English",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "3474498733",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_84",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "849 East Victoria Street",
+                "address_2": "#204",
+                "city": "Carson",
+                "state": "CA",
+                "zip": "90746",
+                "phone": "7191556037"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "French",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "4091744421",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_85",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "2522 Fountain Avenue",
+                "address_2": "",
+                "city": "South Lake Tahoe",
+                "state": "CA",
+                "zip": "96150",
+                "phone": "3510442119"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Danish",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "3660328961",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_86",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "4971 Janet Court",
+                "address_2": "",
+                "city": "Livermore",
+                "state": "CA",
+                "zip": "94550",
+                "phone": "6911144823"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA007001201",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Danish",
+        "gender": "female",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "4735294853",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_87",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "90 Via Verde",
+                "address_2": "",
+                "city": "San Lorenzo",
+                "state": "CA",
+                "zip": "94580",
+                "phone": "5579058770"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Danish",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "9008390690",
+        "type": "FACILITY",
+        "facility_name": "Renal Dialysis Unit",
+        "facility_type": "Hospital",
+        "addresses": [
+            {
+                "address": "22538 6th Street",
+                "address_2": "",
+                "city": "Hayward",
+                "state": "CA",
+                "zip": "94541",
+                "phone": "2489276435"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA007001201",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Danish",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "3270587525",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_89",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1209 Parker Street",
+                "address_2": "",
+                "city": "Berkeley",
+                "state": "CA",
+                "zip": "94702",
+                "phone": "6373566609"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA008001301",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "French",
+        "gender": "female",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "1079944699",
+        "type": "FACILITY",
+        "facility_name": "Central Hospital",
+        "facility_type": "Ambulatory",
+        "addresses": [
+            {
+                "address": "33300 Mission Boulevard",
+                "address_2": "#APT 174",
+                "city": "Union City",
+                "state": "CA",
+                "zip": "94587",
+                "phone": "2468725830"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Spanish",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "9165066629",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_91",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1013 Balboa Avenue",
+                "address_2": "#A",
+                "city": "Capitola",
+                "state": "CA",
+                "zip": "95010",
+                "phone": "6227883791"
+            }
+        ],
+        "specialty": "Endocrinology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Danish",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "5215542706",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_92",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "20370 California 116",
+                "address_2": "",
+                "city": "Monte Rio",
+                "state": "CA",
+                "zip": "95462",
+                "phone": "3564064956"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA009001401",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "English",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "5385821448",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_93",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1013 Balboa Avenue",
+                "address_2": "#A",
+                "city": "Capitola",
+                "state": "CA",
+                "zip": "95010",
+                "phone": "9487849379"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Italian",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "7265206266",
+        "type": "FACILITY",
+        "facility_name": "Main Street Hospital",
+        "facility_type": "Ambulatory",
+        "addresses": [
+            {
+                "address": "775 47th Street",
+                "address_2": "",
+                "city": "Oakland",
+                "state": "CA",
+                "zip": "94609",
+                "phone": "3556575768"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Spanish",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "1481822906",
+        "type": "FACILITY",
+        "facility_name": "City Care Center",
+        "facility_type": "Hospital",
+        "addresses": [
+            {
+                "address": "2414 Parker Street",
+                "address_2": "#R 16",
+                "city": "Berkeley",
+                "state": "CA",
+                "zip": "94704",
+                "phone": "5525972945"
+            }
+        ],
+        "specialty": "Endocrinology",
         "program_type": "qhp",
         "board_certification": "NP",
         "education": "Orthopedic",
@@ -392,14 +3501,157 @@
                 ]
             }
         ],
-        "languages": [
-            "English",
-            "Spanish",
-            "Danish",
-            "Italian",
-            "German",
-            "French"
+        "languages": "French",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "9349324433",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_96",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "11 Eclipse Court",
+                "address_2": "",
+                "city": "Alameda",
+                "state": "CA",
+                "zip": "94501",
+                "phone": "5800422411"
+            }
         ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "French",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "8067331913",
+        "type": "FACILITY",
+        "facility_name": "Renal Dialysis Unit",
+        "facility_type": "Hospital",
+        "addresses": [
+            {
+                "address": "39247 Sundale Drive",
+                "address_2": "",
+                "city": "Fremont",
+                "state": "CA",
+                "zip": "94538",
+                "phone": "2614499986"
+            }
+        ],
+        "specialty": "Ophthalmology",
+        "program_type": "qdp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA008001301",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "Spanish",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "6789822175",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_98",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "3538 Mendenhall Court",
+                "address_2": "",
+                "city": "Pleasanton",
+                "state": "CA",
+                "zip": "94588",
+                "phone": "2445468248"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "German",
+        "gender": "male",
+        "last_updated_on": "2021-07-12"
+    },
+    {
+        "npi": "9191078234",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_99",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "30451 Servilla Place",
+                "address_2": "",
+                "city": "Castaic",
+                "state": "CA",
+                "zip": "91384",
+                "phone": "5902848315"
+            }
+        ],
+        "specialty": "Licensed Behavioral Analyst",
+        "program_type": "qhp",
+        "board_certification": "NP",
+        "education": "Orthopedic",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022
+                ]
+            }
+        ],
+        "languages": "German",
         "gender": "male",
         "last_updated_on": "2021-07-12"
     }
