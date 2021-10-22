@@ -61,6 +61,7 @@ def gen_providers_json():
         gen_type = random.choice(pd_types)
       #  print(gen_type)
         address = random.choice(state_specific_addresses)
+        address2 = random.choice(state_specific_addresses)
         json_body = {
             "npi": str(random.randint(1000000000, 9999999999)),
             "type": gen_type,
@@ -70,7 +71,7 @@ def gen_providers_json():
                 "last": "Provider_" + str(x),
                 "suffix": "Jr."
             }} if gen_type == "INDIVIDUAL" else {}),
-            **({"facility_name": random.choice(pd_facility_names), } if gen_type == 'FACILITY' else {}),
+            **({"facility_name": random.choice(pd_facility_names) + "_" + str(x), } if gen_type == 'FACILITY' else {}),
             **({"facility_type": [random.choice(pd_facility_types)], } if gen_type == 'FACILITY' else {}),
              
             "addresses": [
@@ -81,10 +82,17 @@ def gen_providers_json():
                     "state": address['state'],
                     "zip": address['postalCode'],
                     "phone": str(random.randint(1000000000, 9999999999))
+                },
+                {
+                    "address": address2['address1'],
+                    "address_2": address2['address2'],
+                    "city": address2['city'],
+                    "state": address2['state'],
+                    "zip": address2['postalCode'],
+                    "phone": str(random.randint(1000000000, 9999999999))
                 }
             ],
             **({"specialty": [random.choice(pd_specialties)], } if gen_type == 'INDIVIDUAL' else {}),
-            #"specialty": [random.choice(pd_specialties)],
             "program_type": [random.choice(pd_program_type)],
             "board_certification": [random.choice(pd_board_certification)],
             "education": [random.choice(pd_education)],
