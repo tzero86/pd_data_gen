@@ -14,7 +14,7 @@ import random
 
 # globals
 state_specific_addresses = []
-total_records = 100
+total_records = 1000
 target_state = 'CA'
 
 
@@ -23,7 +23,7 @@ def get_state_data():
     addresses = json.load(addresses_source)
 
     for address in addresses['addresses']:
-        if address['state'] == target_state:
+        if address['state'] == target_state and 'city' in address:
             state_specific_addresses.append(address)
 # print(json.dumps(state_specific_addresses))
 
@@ -41,14 +41,14 @@ def gen_providers_json():
                          'Central Hospital', 'City Care Center']
     pd_facility_types = ["Hospital", "Ambulatory"]
     pd_specialties = ['Licensed Behavioral Analyst', 'Ophthalmology', 'Endocrinology']
-    pd_program_type = ['qhp', 'qdp']
+    pd_program_type = ['QHP', 'QDP']
     pd_board_certification = ['NP']
     pd_education = ['Orthopedic']
-    pd_accepting = ['Accepting', 'Not-Accepting']
+    pd_accepting = ['accepting', 'not accepting']
     pd_plan_id_type = ['HIOS-PLAN-ID']
-    pd_hios_plan_id = ["25210CA011001601", "25210CA007001201", "25210CA006001101", "25210CA005001001",
-                       "25210CA009001401", "25210CA008001301", "25210CA011001601", "25210CA012001701",
-                       "25210CA012001701", ]
+    pd_hios_plan_id = ["25210CA0110016", "25210CA0070012", "25210CA0060011", "25210CA0050010",
+                       "25210CA0090014", "25210CA0080013", "25210CA0110016", "25210CA0120017",
+                       "25210CA0120017", ]
     pd_network_tier = ['PREFERRED', 'NON-PREFERRED']
     pd_years = [2021, 2022]
     pd_prov_languages = ['English', 'Spanish', 'Danish', 'Italian', 'German', 'French']
@@ -59,7 +59,7 @@ def gen_providers_json():
     get_state_data()
     for x in range(1, total_records):
         gen_type = random.choice(pd_types)
-        print(gen_type)
+      #  print(gen_type)
         address = random.choice(state_specific_addresses)
         json_body = {
             "npi": str(random.randint(1000000000, 9999999999)),
@@ -68,10 +68,11 @@ def gen_providers_json():
                 "first": "Juan",
                 "middle": "Carlos",
                 "last": "Provider_" + str(x),
-                "suffix": "JS"
+                "suffix": "Jr."
             }} if gen_type == "INDIVIDUAL" else {}),
             **({"facility_name": random.choice(pd_facility_names), } if gen_type == 'FACILITY' else {}),
-            **({"facility_type": random.choice(pd_facility_types), } if gen_type == 'FACILITY' else {}),
+            **({"facility_type": [random.choice(pd_facility_types)], } if gen_type == 'FACILITY' else {}),
+             
             "addresses": [
                 {
                     "address": address['address1'],
@@ -82,10 +83,11 @@ def gen_providers_json():
                     "phone": str(random.randint(1000000000, 9999999999))
                 }
             ],
-            "specialty": random.choice(pd_specialties),
-            "program_type": random.choice(pd_program_type),
-            "board_certification": random.choice(pd_board_certification),
-            "education": random.choice(pd_education),
+            **({"specialty": [random.choice(pd_specialties)], } if gen_type == 'INDIVIDUAL' else {}),
+            #"specialty": [random.choice(pd_specialties)],
+            "program_type": [random.choice(pd_program_type)],
+            "board_certification": [random.choice(pd_board_certification)],
+            "education": [random.choice(pd_education)],
             "accepting": random.choice(pd_accepting),
             "plans": [
                 {
@@ -95,12 +97,13 @@ def gen_providers_json():
                     "years": [2021, 2022]
                 }
             ],
-            "languages": random.choice(pd_prov_languages),
+            **({"languages": [random.choice(pd_prov_languages)], } if gen_type == 'INDIVIDUAL' else {}),
+            
             **({"gender": random.choice(pd_prov_gender)} if gen_type == 'INDIVIDUAL' else {}),
             "last_updated_on": "2021-07-12"
         }
         json_data.append(json_body)
-    print(json.dumps(json_data, indent=4, sort_keys=False))
+   # print(json.dumps(json_data, indent=4, sort_keys=False))
     save_to_file(json_data)
 
 
