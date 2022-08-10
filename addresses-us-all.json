@@ -24757,16 +24757,6 @@
             }
         },
         {
-            "address1": "942 Lewis Road",
-            "address2": "",
-            "state": "CA",
-            "postalCode": "95076",
-            "coordinates": {
-                "lat": 36.882406,
-                "lng": -121.701963
-            }
-        },
-        {
             "address1": "12330 Old Glenn Highway",
             "address2": "#STE 8",
             "city": "Anchorage",

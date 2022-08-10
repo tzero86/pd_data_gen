@@ -1,0 +1,4358 @@
+[
+    {
+        "npi": "4416601924",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_1",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "2704 McGee Avenue",
+                "address_2": "R",
+                "city": "Berkeley",
+                "state": "CA",
+                "zip": "94703",
+                "phone": "6928292073"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA007001201",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Italian"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "3458856471",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_2",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "42223 Edgewood Street",
+                "address_2": "",
+                "city": "Fremont",
+                "state": "CA",
+                "zip": "94538",
+                "phone": "8203722848"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "German"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "3133180075",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_3",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "3526 Sutton Loop",
+                "address_2": "",
+                "city": "Fremont",
+                "state": "CA",
+                "zip": "94536",
+                "phone": "7521664471"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "French"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "7619200112",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_4",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "26466 Mockingbird Lane",
+                "address_2": "",
+                "city": "Hayward",
+                "state": "CA",
+                "zip": "94544",
+                "phone": "2692843441"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA007001201",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "German"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "2269125000",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_5",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "7725 Ney Avenue",
+                "address_2": "",
+                "city": "Oakland",
+                "state": "CA",
+                "zip": "94605",
+                "phone": "8265311049"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "7877594107",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_6",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "18687 County Road 97",
+                "address_2": "",
+                "city": "Woodland",
+                "state": "CA",
+                "zip": "95695",
+                "phone": "2979334322"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Danish"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "9521539852",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_7",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "4920 Quonset Drive",
+                "address_2": "",
+                "city": "Sacramento",
+                "state": "CA",
+                "zip": "95820",
+                "phone": "4023018530"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "French"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "9902643624",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_8",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "25793 Durrwood Court",
+                "address_2": "",
+                "city": "Castro Valley",
+                "state": "CA",
+                "zip": "94552",
+                "phone": "1889130276"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "German"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "7889437148",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_9",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "9036 Calico Court",
+                "address_2": "",
+                "city": "Hesperia",
+                "state": "CA",
+                "zip": "92344",
+                "phone": "7634845198"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "French"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "3130740680",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_10",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "4231 Miramonte Way",
+                "address_2": "",
+                "city": "Union City",
+                "state": "CA",
+                "zip": "94587",
+                "phone": "3382625905"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "German"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "3842047539",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_11",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "5410 McLean Drive",
+                "address_2": "",
+                "city": "Elk Grove",
+                "state": "CA",
+                "zip": "95757",
+                "phone": "7887953230"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "9144170446",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_12",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1701 Atlantic Street",
+                "address_2": "",
+                "city": "Union City",
+                "state": "CA",
+                "zip": "94587",
+                "phone": "2450330807"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA009001401",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "8885628082",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_13",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "46710 Crawford Street",
+                "address_2": "#APT 32",
+                "city": "Fremont",
+                "state": "CA",
+                "zip": "94539",
+                "phone": "9963057032"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA007001201",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Danish"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "6751309097",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_14",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "222 Quince Street",
+                "address_2": "#2-B",
+                "city": "San Diego",
+                "state": "CA",
+                "zip": "92103",
+                "phone": "5614915270"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "French"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "9284538466",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_15",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "3228 Chettenham Drive",
+                "address_2": "",
+                "city": "Rancho Cordova",
+                "state": "CA",
+                "zip": "95670",
+                "phone": "5610177477"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Danish"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "5748724638",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_16",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1 Kelton Court",
+                "address_2": "#4H",
+                "city": "Oakland",
+                "state": "CA",
+                "zip": "94611",
+                "phone": "2164569739"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "7635188497",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_17",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "3526 Sutton Loop",
+                "address_2": "",
+                "city": "Fremont",
+                "state": "CA",
+                "zip": "94536",
+                "phone": "7758170021"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "German"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "8156531994",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_18",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "260 Rio Del Mar Boulevard",
+                "address_2": "##14",
+                "city": "Aptos",
+                "state": "CA",
+                "zip": "95003",
+                "phone": "4825887668"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "9780550475",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_19",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "5792 Owl Hill Avenue",
+                "address_2": "",
+                "city": "Santa Rosa",
+                "state": "CA",
+                "zip": "95409",
+                "phone": "5645002539"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qdp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA009001401",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Spanish"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "8057867910",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_20",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "2511 Hearst Avenue",
+                "address_2": "#R 113",
+                "city": "Berkeley",
+                "state": "CA",
+                "zip": "94709",
+                "phone": "3602683560"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA007001201",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Danish"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "9008150126",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_21",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "9300 C Street",
+                "address_2": "",
+                "city": "Oakland",
+                "state": "CA",
+                "zip": "94603",
+                "phone": "9831158767"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Italian"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "7170287010",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_22",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "14347 Corvallis Street",
+                "address_2": "",
+                "city": "San Leandro",
+                "state": "CA",
+                "zip": "94579",
+                "phone": "7803204853"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "German"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "7412898954",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_23",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "125 John Street",
+                "address_2": "",
+                "city": "Santa Cruz",
+                "state": "CA",
+                "zip": "95060",
+                "phone": "2461246697"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA009001401",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Spanish"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "1338119046",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_24",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "14285 Wycliff Way",
+                "address_2": "",
+                "city": "Magalia",
+                "state": "CA",
+                "zip": "95954",
+                "phone": "5094241888"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA008001301",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "German"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "9366293261",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_25",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "37600 Sycamore Street",
+                "address_2": "",
+                "city": "Newark",
+                "state": "CA",
+                "zip": "94560",
+                "phone": "4851263431"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA008001301",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Spanish"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "8019056852",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_26",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "10826 Pointe Royal Drive",
+                "address_2": "",
+                "city": "Bakersfield",
+                "state": "CA",
+                "zip": "93311",
+                "phone": "8050651032"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA009001401",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Italian"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "5388023069",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_27",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "6630 MacArthur Boulevard",
+                "address_2": "#19",
+                "city": "Oakland",
+                "state": "CA",
+                "zip": "94605",
+                "phone": "5647241324"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "German"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "6645876287",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_28",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "16303 Mateo Street",
+                "address_2": "",
+                "city": "San Leandro",
+                "state": "CA",
+                "zip": "94578",
+                "phone": "2970812194"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "German"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "7584458437",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_29",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1521 159th Avenue",
+                "address_2": "",
+                "city": "San Leandro",
+                "state": "CA",
+                "zip": "94578",
+                "phone": "6768829512"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qdp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Spanish"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "7178747261",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_30",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "314 Mesa Street",
+                "address_2": "",
+                "city": "Wheatland",
+                "state": "CA",
+                "zip": "95692",
+                "phone": "7709057086"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Italian"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "3903253802",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_31",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "800 California 116",
+                "address_2": "",
+                "city": "Sebastopol",
+                "state": "CA",
+                "zip": "95472",
+                "phone": "7003510428"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA009001401",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "5485502258",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_32",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "4329 Howe Street",
+                "address_2": "",
+                "city": "Oakland",
+                "state": "CA",
+                "zip": "94611",
+                "phone": "1037005632"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA007001201",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Italian"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "6485063722",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_33",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1194 Cragmont Avenue",
+                "address_2": "M",
+                "city": "Berkeley",
+                "state": "CA",
+                "zip": "94708",
+                "phone": "1398313363"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Danish"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "2000996931",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_34",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "2902 Flint Street",
+                "address_2": "",
+                "city": "Union City",
+                "state": "CA",
+                "zip": "94587",
+                "phone": "5796585342"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "2860380233",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_35",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "654 Laurette Place",
+                "address_2": "",
+                "city": "Hayward",
+                "state": "CA",
+                "zip": "94544",
+                "phone": "2437258591"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "French"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "3053592500",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_36",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "849 East Victoria Street",
+                "address_2": "#204",
+                "city": "Carson",
+                "state": "CA",
+                "zip": "90746",
+                "phone": "9846794974"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qhp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "French"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "2896768371",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_37",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "42223 Edgewood Street",
+                "address_2": "",
+                "city": "Fremont",
+                "state": "CA",
+                "zip": "94538",
+                "phone": "8414892280"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA007001201",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Danish"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "7568834962",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_38",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1383 Purdue Street",
+                "address_2": "",
+                "city": "San Leandro",
+                "state": "CA",
+                "zip": "94579",
+                "phone": "2425236232"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "French"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "7112720829",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_39",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "61 Callahan Way",
+                "address_2": "#B4",
+                "city": "Mammoth Lakes",
+                "state": "CA",
+                "zip": "93546",
+                "phone": "2689178398"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qhp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "German"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "6420775864",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_40",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "7573 National Drive",
+                "address_2": "",
+                "city": "Livermore",
+                "state": "CA",
+                "zip": "94550",
+                "phone": "6459609943"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qdp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "German"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "4044110535",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_41",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1797 Pasatiempo Drive",
+                "address_2": "",
+                "city": "Chico",
+                "state": "CA",
+                "zip": "95928",
+                "phone": "6679891970"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Spanish"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "5597422431",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_42",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "4738 Mallard Common",
+                "address_2": "",
+                "city": "Fremont",
+                "state": "CA",
+                "zip": "94555",
+                "phone": "2445854859"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "French"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "4443478443",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_43",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1725 Oxford Street",
+                "address_2": "#R 108",
+                "city": "Berkeley",
+                "state": "CA",
+                "zip": "94709",
+                "phone": "8851371329"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "German"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "3745615494",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_44",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "3388 Thomasson Lane",
+                "address_2": "",
+                "city": "Fairfield",
+                "state": "CA",
+                "zip": "94534",
+                "phone": "5377741905"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA008001301",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "French"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "7660954422",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_45",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "465 Humboldt Way",
+                "address_2": "",
+                "city": "Livermore",
+                "state": "CA",
+                "zip": "94551",
+                "phone": "5300231192"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Italian"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "6066541081",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_46",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "29104 Quartz Lane",
+                "address_2": "",
+                "city": "Tollhouse",
+                "state": "CA",
+                "zip": "93667",
+                "phone": "8948390702"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA009001401",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Italian"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "9302893384",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_47",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "49548 Road 200",
+                "address_2": "",
+                "city": "O'Neals",
+                "state": "CA",
+                "zip": "93645",
+                "phone": "3338884832"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA008001301",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Danish"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "9675596736",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_48",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "2443 Sierra Nevada Road",
+                "address_2": "#N5",
+                "city": "Mammoth Lakes",
+                "state": "CA",
+                "zip": "93546",
+                "phone": "4981132200"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Danish"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "5953728035",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_49",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "73455 Twentynine Palms Highway",
+                "address_2": "",
+                "city": "Twentynine Palms",
+                "state": "CA",
+                "zip": "92277",
+                "phone": "4217842680"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA007001201",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Spanish"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "3220320717",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_50",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "441 Merritt Avenue",
+                "address_2": "",
+                "city": "Oakland",
+                "state": "CA",
+                "zip": "94610",
+                "phone": "4479286910"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "French"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "7063425361",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_51",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "8063 Regency Drive",
+                "address_2": "",
+                "city": "Pleasanton",
+                "state": "CA",
+                "zip": "94588",
+                "phone": "3328977609"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Spanish"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "6958083593",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_52",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1222 Arcade Boulevard",
+                "address_2": "",
+                "city": "Sacramento",
+                "state": "CA",
+                "zip": "95815",
+                "phone": "7840138831"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Spanish"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "3682286382",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_53",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "2835 Jed Road",
+                "address_2": "",
+                "city": "Escondido",
+                "state": "CA",
+                "zip": "92027",
+                "phone": "2219455546"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qdp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "German"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "6282764135",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_54",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "19416 Barclay Road",
+                "address_2": "",
+                "city": "Castro Valley",
+                "state": "CA",
+                "zip": "94546",
+                "phone": "5707966733"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "3947757302",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_55",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "158 Euclid Avenue",
+                "address_2": "",
+                "city": "San Leandro",
+                "state": "CA",
+                "zip": "94577",
+                "phone": "9010788414"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Italian"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "2858995315",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_56",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "22709 Canyon Terrace Drive",
+                "address_2": "#2",
+                "city": "Castro Valley",
+                "state": "CA",
+                "zip": "94552",
+                "phone": "6072988033"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Italian"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "6052306420",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_57",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "310 12th Avenue",
+                "address_2": "",
+                "city": "Santa Cruz",
+                "state": "CA",
+                "zip": "95062",
+                "phone": "4505641724"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA008001301",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Italian"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "1644015529",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_58",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "145 Grau Drive",
+                "address_2": "",
+                "city": "Fremont",
+                "state": "CA",
+                "zip": "94536",
+                "phone": "1119692870"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "1741620309",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_59",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "682 Brighton Way",
+                "address_2": "",
+                "city": "Livermore",
+                "state": "CA",
+                "zip": "94551",
+                "phone": "4240777805"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qhp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Spanish"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "3183810700",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_60",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "24647 Patricia Court",
+                "address_2": "",
+                "city": "Hayward",
+                "state": "CA",
+                "zip": "94541",
+                "phone": "5050156092"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qdp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Italian"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "6078568245",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_61",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "11256 Palos Verdes Court",
+                "address_2": "",
+                "city": "Cupertino",
+                "state": "CA",
+                "zip": "95014",
+                "phone": "9199676582"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Italian"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "7639952218",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_62",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "16502 South Main Street",
+                "address_2": "#5",
+                "city": "Gardena",
+                "state": "CA",
+                "zip": "90248",
+                "phone": "6017818036"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "French"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "5181754239",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_63",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "619 Colusa Avenue",
+                "address_2": "",
+                "city": "Berkeley",
+                "state": "CA",
+                "zip": "94707",
+                "phone": "2843976339"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA009001401",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Danish"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "2230456432",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_64",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "9036 Calico Court",
+                "address_2": "",
+                "city": "Hesperia",
+                "state": "CA",
+                "zip": "92344",
+                "phone": "6081176813"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qhp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA008001301",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Danish"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "5834586634",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_65",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "4738 Mallard Common",
+                "address_2": "",
+                "city": "Fremont",
+                "state": "CA",
+                "zip": "94555",
+                "phone": "3349821222"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Spanish"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "3928533138",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_66",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "26334 Adrian Avenue",
+                "address_2": "",
+                "city": "Hayward",
+                "state": "CA",
+                "zip": "94545",
+                "phone": "8903098388"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Danish"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "9610686448",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_67",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "90 Via Verde",
+                "address_2": "",
+                "city": "San Lorenzo",
+                "state": "CA",
+                "zip": "94580",
+                "phone": "3635406639"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Danish"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "7371570583",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_68",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1040 University Avenue",
+                "address_2": "#R 208",
+                "city": "Berkeley",
+                "state": "CA",
+                "zip": "94710",
+                "phone": "8429708678"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA009001401",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Spanish"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "2738675114",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_69",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "20930 Todd Valley Road",
+                "address_2": "",
+                "city": "Foresthill",
+                "state": "CA",
+                "zip": "95631",
+                "phone": "6582671467"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA007001201",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Italian"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "3681724446",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_70",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "4231 Miramonte Way",
+                "address_2": "",
+                "city": "Union City",
+                "state": "CA",
+                "zip": "94587",
+                "phone": "5411546987"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "German"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "7771359056",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_71",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "37600 Sycamore Street",
+                "address_2": "",
+                "city": "Newark",
+                "state": "CA",
+                "zip": "94560",
+                "phone": "5460391513"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "8844954107",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_72",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "65 Hilltop Lane",
+                "address_2": "",
+                "city": "McKinleyville",
+                "state": "CA",
+                "zip": "95519",
+                "phone": "4377869604"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA008001301",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Italian"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "6524573937",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_73",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "406 Ashwood Court",
+                "address_2": "",
+                "city": "Vacaville",
+                "state": "CA",
+                "zip": "95688",
+                "phone": "8986859031"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "8240305117",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_74",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "970 Old Oak Road",
+                "address_2": "",
+                "city": "Livermore",
+                "state": "CA",
+                "zip": "94550",
+                "phone": "9005588283"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Italian"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "4990615628",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_75",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "7237 Wild Currant Way",
+                "address_2": "",
+                "city": "Oakland",
+                "state": "CA",
+                "zip": "94611",
+                "phone": "1646434910"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qdp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "German"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "4415181227",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_76",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1061 Sumatra Street",
+                "address_2": "",
+                "city": "Hayward",
+                "state": "CA",
+                "zip": "94544",
+                "phone": "7578748460"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Danish"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "9422320734",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_77",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1349 Burkhart Avenue",
+                "address_2": "",
+                "city": "San Leandro",
+                "state": "CA",
+                "zip": "94579",
+                "phone": "3343235287"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA009001401",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Italian"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "6460466185",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_78",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "25800 Industrial Boulevard",
+                "address_2": "V",
+                "city": "Hayward",
+                "state": "CA",
+                "zip": "94545",
+                "phone": "1177253494"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "7758354886",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_79",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "2835 Jed Road",
+                "address_2": "",
+                "city": "Escondido",
+                "state": "CA",
+                "zip": "92027",
+                "phone": "5229793142"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA007001201",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "7849393252",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_80",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1209 Parker Street",
+                "address_2": "",
+                "city": "Berkeley",
+                "state": "CA",
+                "zip": "94702",
+                "phone": "7664482356"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "German"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "9138210123",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_81",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "4300 Soquel Drive",
+                "address_2": "##71",
+                "city": "Soquel",
+                "state": "CA",
+                "zip": "95073",
+                "phone": "7788020834"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Spanish"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "2888705433",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_82",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "4329 Howe Street",
+                "address_2": "",
+                "city": "Oakland",
+                "state": "CA",
+                "zip": "94611",
+                "phone": "8833397448"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "German"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "1683013017",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_83",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1013 Balboa Avenue",
+                "address_2": "#A",
+                "city": "Capitola",
+                "state": "CA",
+                "zip": "95010",
+                "phone": "9279115416"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA007001201",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Spanish"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "3555482271",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_84",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "2400 Easy Street",
+                "address_2": "",
+                "city": "San Leandro",
+                "state": "CA",
+                "zip": "94578",
+                "phone": "4875953676"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA011001601",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "German"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "3545391892",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_85",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "4971 Janet Court",
+                "address_2": "",
+                "city": "Livermore",
+                "state": "CA",
+                "zip": "94550",
+                "phone": "1381227020"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "German"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "6283988580",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_86",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "3777 Mowry Avenue",
+                "address_2": "#APT 17",
+                "city": "Fremont",
+                "state": "CA",
+                "zip": "94538",
+                "phone": "2522962904"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA008001301",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "English"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "2816771090",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_87",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1357 Addison Street",
+                "address_2": "",
+                "city": "Berkeley",
+                "state": "CA",
+                "zip": "94702",
+                "phone": "7966464280"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Italian"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "6758235731",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_88",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "35805 Alcazar Court",
+                "address_2": "",
+                "city": "Fremont",
+                "state": "CA",
+                "zip": "94536",
+                "phone": "3767744877"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Italian"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "4042994620",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_89",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "2755 Country Drive",
+                "address_2": "#244",
+                "city": "Fremont",
+                "state": "CA",
+                "zip": "94536",
+                "phone": "2947696822"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Spanish"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "9541083373",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_90",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1532 Milvia Street",
+                "address_2": "R A",
+                "city": "Berkeley",
+                "state": "CA",
+                "zip": "94709",
+                "phone": "6610639644"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Spanish"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "5777606422",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_91",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "16502 South Main Street",
+                "address_2": "#5",
+                "city": "Gardena",
+                "state": "CA",
+                "zip": "90248",
+                "phone": "1432900776"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "German"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "8836177562",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_92",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "835 Shiloh Court",
+                "address_2": "",
+                "city": "Redding",
+                "state": "CA",
+                "zip": "96003",
+                "phone": "3437928413"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "French"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "3551288986",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_93",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "3526 Sutton Loop",
+                "address_2": "",
+                "city": "Fremont",
+                "state": "CA",
+                "zip": "94536",
+                "phone": "3238690275"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PA",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Danish"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "7815783685",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_94",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "649 Praderia Circle",
+                "address_2": "",
+                "city": "Fremont",
+                "state": "CA",
+                "zip": "94539",
+                "phone": "3006988556"
+            }
+        ],
+        "specialty": [
+            "Ophthalmology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Not-Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "French"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "1470963855",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_95",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1 Portsmouth Road",
+                "address_2": "",
+                "city": "Piedmont",
+                "state": "CA",
+                "zip": "94610",
+                "phone": "7392084740"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qhp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA006001101",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Italian"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "9031533562",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_96",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "19 Heritage",
+                "address_2": "",
+                "city": "Oakland",
+                "state": "CA",
+                "zip": "94605",
+                "phone": "7067859117"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "French"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "2635715804",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_97",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "3377 Sandstone Court",
+                "address_2": "",
+                "city": "Pleasanton",
+                "state": "CA",
+                "zip": "94588",
+                "phone": "6165958688"
+            }
+        ],
+        "specialty": [
+            "Endocrinology"
+        ],
+        "program_type": "qdp",
+        "board_certification": "MD",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA005001001",
+                "network_tier": "NON-PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Spanish"
+        ],
+        "gender": "male",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "7862135125",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_98",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "1300 Lemos Lane",
+                "address_2": "",
+                "city": "Fremont",
+                "state": "CA",
+                "zip": "94539",
+                "phone": "9193818893"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qdp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA008001301",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Spanish"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    },
+    {
+        "npi": "3554729032",
+        "type": "INDIVIDUAL",
+        "name": {
+            "first": "Juan",
+            "middle": "Carlos",
+            "last": "Provider_99",
+            "suffix": "JS"
+        },
+        "addresses": [
+            {
+                "address": "4511 Sloat Road",
+                "address_2": "",
+                "city": "Fremont",
+                "state": "CA",
+                "zip": "94538",
+                "phone": "3061762799"
+            }
+        ],
+        "specialty": [
+            "Licensed Behavioral Analyst"
+        ],
+        "program_type": "qhp",
+        "board_certification": "PAC",
+        "education": "MD",
+        "accepting": "Accepting",
+        "plans": [
+            {
+                "plan_id_type": "HIOS-PLAN-ID",
+                "plan_id": "25210CA012001701",
+                "network_tier": "PREFERRED",
+                "years": [
+                    2021,
+                    2022,
+                    2023
+                ]
+            }
+        ],
+        "languages": [
+            "Danish"
+        ],
+        "gender": "female",
+        "last_updated_on": "2022-08-08"
+    }
+]
