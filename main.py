@@ -37,8 +37,8 @@ def get_state_data():
 
 # It returns the date formatted as YYYYMMDD to be used in the output's file name
 def get_date():
-	d = datetime.datetime.strptime("12/10/2020", "%d/%m/%Y")
-	s = d.strftime('%Y%m%d')
+	d = str(datetime.date.today())
+	s = d.replace('-', '')
 	return s
 
 
@@ -78,7 +78,11 @@ def gen_providers_json():
 	for x in range(0, total_records):
 		gen_type = random.choice(pd_types)
 		# print(gen_type)
-		address = random.choice(state_specific_addresses)
+		try:
+			address = random.choice(state_specific_addresses)
+		except:
+			print(f'ERROR: It seems there is no data available for the state you selected: {target_state}')
+			quit()
 		json_body = {
 			"npi": str(random.randint(1000000000, 9999999999)),
 			"type": gen_type,
