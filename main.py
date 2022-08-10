@@ -9,7 +9,6 @@
 # ---------------------------------------------------------------------------
 # Imports
 # ---------------------------------------------------------------------------
-
 import json
 import random
 import os
@@ -25,7 +24,7 @@ def get_state_data():
     addresses = json.load(addresses_source)
 
     for address in addresses['addresses']:
-        if address['state'] == target_state:
+        if address['state'] == target_state and 'city' in address:
             state_specific_addresses.append(address)
 # print(json.dumps(state_specific_addresses))
 
