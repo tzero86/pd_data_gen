@@ -4,7 +4,7 @@ import http.client, urllib.parse
 conn = http.client.HTTPConnection('api.positionstack.com')
 
 params = urllib.parse.urlencode({
-    'access_key': 'YOUR_ACCESS_KEY',
+    'access_key': '2360d87c7defdf8a62f626f60cac8a65',
     'query': '4400 Cox Rd #200 Glen Allen',
     'region': 'Virginia',
     'limit': 1,

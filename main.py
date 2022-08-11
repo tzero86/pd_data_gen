@@ -64,17 +64,25 @@ def gen_providers_json():
 	pd_education = ['MD']
 	pd_accepting = ['accepting', 'not accepting']
 	pd_plan_id_type = ['HIOS-PLAN-ID']
+	# Plan values for QA Only.
 	pd_hios_plan_id = ["25210CA0110016", "25210CA0070012", "25210CA0060011", "25210CA0050010",
 	                   "25210CA0090014", "25210CA0080013", "25210CA0110016", "25210CA0120017",
 	                   "25210CA0120017"]
+	# Plan values for UAT only.
+	pd_hios_plan_id_UAT = ["11241VA0010001","11241VA0020001","11241VA0030001","11241VA0040001","11241VA0050001",
+                        "23190VA0060001","10544VA0090001","10544VA0100001","10544VA0120001","10544VA0110001",
+                        "10544VA0320004","10544VA0080001","11241VA0090001","11241VA0090002","11241VA0090003",
+                        "11241VA0090004","11241VA0090005","11241VA0090006","71095VA0340012","71095VA0340013",
+                        "71095VA0340014","10544VA0430004","10544VA0430005","10544VA0430006"]
 	pd_network_tier = ['PREFERRED', 'NON-PREFERRED']
-	pd_years = [2021, 2022]
 	pd_prov_languages = ['English', 'Spanish', 'Danish', 'Italian', 'German', 'French']
 	pd_prov_gender = ['Female', 'Male']
 
 	# We need to generate N number of objects
 	json_data = []
 	get_state_data()
+ 	# If the Sate is CA we use the QA plans, for any other we use UAT (This needs a proper function to support multiple environments)) 
+	target_plans = pd_hios_plan_id if (target_state == 'CA') else pd_hios_plan_id_UAT 
 	for x in range(0, total_records):
 		gen_type = random.choice(pd_types)
 		# print(gen_type)
@@ -118,7 +126,7 @@ def gen_providers_json():
 			"plans": [
 				{
 					"plan_id_type": random.choice(pd_plan_id_type),
-					"plan_id": random.choice(pd_hios_plan_id),
+					"plan_id": random.choice(target_plans),
 					"network_tier": random.choice(pd_network_tier),
 					"years": [2021, 2022, 2023]
 				}
