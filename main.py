@@ -18,7 +18,7 @@ import os
 # globals
 state_specific_addresses = []
 total_records = 400
-target_state = 'CA'
+target_state = 'VA'
 
 
 # This function reads from the addresses file
@@ -124,6 +124,12 @@ def gen_providers_json():
 			**({"accepting": random.choice(pd_accepting),
 			    } if gen_type == "INDIVIDUAL" else {}),
 			"plans": [
+				{
+					"plan_id_type": random.choice(pd_plan_id_type),
+					"plan_id": random.choice(target_plans),
+					"network_tier": random.choice(pd_network_tier),
+					"years": [2021, 2022, 2023]
+				},
 				{
 					"plan_id_type": random.choice(pd_plan_id_type),
 					"plan_id": random.choice(target_plans),
