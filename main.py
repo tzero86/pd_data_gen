@@ -37,14 +37,14 @@ def get_state_data():
 
 # It returns the date formatted as YYYYMMDD to be used in the output's file name
 def get_date():
-	d = str(datetime.date.today())
+	d = str(datetime.date.today() + datetime.timedelta(days=1))
 	s = d.replace('-', '')
 	return s
 
 
 # This function takes care of actually saving the file, supporting specific OS paths.
 def save_to_file(data):
-	date = get_date()
+	date = get_date() 
 	new_path = os.path.join(os.getcwd(), f'PD_Issuer1_{date}.json')
 	print(new_path)
 	with open(new_path, 'w', encoding='utf-8') as f:
@@ -95,6 +95,7 @@ def gen_providers_json():
 			"npi": str(random.randint(1000000000, 9999999999)),
 			"type": gen_type,
 			**({"name": {
+				##TODO implement random name and last name // random facility name with list from sep_data_gen
 				"first": "Juan",
 				"middle": "Carlos",
 				"last": "Provider_" + str(x),
